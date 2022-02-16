@@ -1,0 +1,6 @@
+.listaCarrinho {
+  height: 323px;
+  width: 99%;
+  overflow-y: auto;
+  overflow-x: hidden;
+}

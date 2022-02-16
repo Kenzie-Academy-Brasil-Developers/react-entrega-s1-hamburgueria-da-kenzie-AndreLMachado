@@ -1,0 +1,47 @@
+.listCart {
+  display: flex;
+  flex-direction: row;
+  height: 80px;
+  border: none;
+}
+
+.imgCardCart {
+  width: 80px;
+  background-color: #e0e0e0;
+}
+
+.spanPriceCart {
+  display: none;
+}
+
+.baixoCardCart {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 15px;
+}
+
+.H3CardCart {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.ButtonCardCart {
+  height: 37px;
+  border: none;
+  background-color: transparent;
+  color: #bdbdbd;
+  font-size: 12px;
+  margin-right: 10px;
+}
+
+.typeFiltroCart {
+  color: #bdbdbd;
+  font-size: 12px;
+}
+
+.valorTotalCarrinho {
+  width: 85%;
+}

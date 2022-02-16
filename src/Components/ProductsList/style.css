@@ -1,0 +1,17 @@
+.ListaVitrine {
+  display: flex;
+  max-width: 99vw;
+  overflow-y: hidden;
+  overflow-x: scroll;
+}
+
+@media (min-width: 767px) {
+  .ListaVitrine {
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 980px;
+  }
+  .ListaVitrine {
+    overflow: hidden;
+  }
+}

@@ -1,0 +1,58 @@
+li {
+  width: 300px;
+  height: 346px;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid #e0e0e0;
+  margin: 10px;
+}
+
+.imageCard {
+  background-color: #f5f5f5;
+  width: 300px;
+  height: 150px;
+}
+
+.imgCard {
+  width: 180px;
+  height: 180px;
+  margin-top: -30px;
+}
+
+.H3Card {
+  margin-left: 20px;
+  margin-top: 26px;
+}
+
+.typeFiltro,
+.spanPrice,
+.ButtonCard {
+  margin-top: 14px;
+  margin-left: 20px;
+}
+
+.spanPrice {
+  color: #27ae60;
+}
+
+.typeFiltro {
+  color: #828282;
+  font-size: 12px;
+}
+
+.ButtonCard {
+  background-color: #27ae60;
+  color: #fff;
+  border: none;
+  width: 106px;
+  height: 40px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.baixoCard {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
